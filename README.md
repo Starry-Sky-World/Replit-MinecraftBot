@@ -10,7 +10,7 @@ A Minecraft chatbot powered by [mineflayer](https://github.com/PrismarineJS/mine
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Replit-MinecraftBot.git
+   git clone https://github.com/Starry-Sky-World/Replit-MinecraftBot.git
    cd Replit-MinecraftBot
    ```
 2. Install dependencies:
@@ -50,4 +50,7 @@ A Minecraft chatbot powered by [mineflayer](https://github.com/PrismarineJS/mine
 
 ## License
 This project is released into the public domain. You can use it for any purpose, commercial or non-commercial, without restriction.
+
+## Repository
+[https://github.com/Starry-Sky-World/Replit-MinecraftBot](https://github.com/Starry-Sky-World/Replit-MinecraftBot)
 
